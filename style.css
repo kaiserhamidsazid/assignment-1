@@ -160,8 +160,6 @@ span{
 .sec_div_6 h1{
     color:orange;
     text-align:center;
-    text-decoration:dashed;
-    text-decoration-color: red;
 }
 .sec_div_6 img{
     width:100%;
@@ -185,12 +183,12 @@ span{
     margin-left:50px;
     margin-right:50px;
     width:30%;
-    border-radius: 15px;
+    border-radius:15px;
 }
 .sec_div_8 h1{
     color:slateblue;
     text-align:center;
-    text-decoration:dotted;
+    
 } 
 .sec_div_8 img{
     width:100%;   
