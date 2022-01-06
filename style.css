@@ -1,0 +1,228 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    margin:0;
+}
+/*This is Head section property*/
+.head_section{
+    display:flex;
+    margin-left:56px;
+    
+}
+.side_line{
+    border-image:linear-gradient(red,tomato);
+    border-left:4px solid;
+    border-image-slice:1;
+    border-radius:10px;
+   
+}
+.heading_1{
+    margin-left:7px;
+}
+.focused_div{
+    width:50%;
+    
+}
+.focus_sec p{
+    margin-bottom:30px;
+}
+.focus_sec{
+    margin-top:100px;
+}
+.focused_div img{
+    width:50%;
+    margin-left:60px;
+}
+span{
+    color:orange;
+}
+
+.button a{
+    text-decoration:none;
+    background-color: orangered;
+    padding:10px 20px;
+    color:white;
+    border-radius:5px;
+    
+    
+}
+.scroll{
+    margin-top:50px;
+}
+.img_div{
+    width:50%;
+}
+/*This mission Heading property*/
+.heading_2{
+    text-align:center;
+}
+/*This is Section-2 property about mission & vission*/
+.section_2{
+    display:flex;
+    margin-left:50px;
+    margin-bottom: 50px;
+    
+}
+.section_2 img{
+    width:30%;
+    
+}
+.mission_div{
+    background-color:paleturquoise;
+    text-align:justify;
+    margin:8px 30px 8px 8px;
+    padding:25px;
+    border-radius:10px;
+}
+.vission_div{
+    background-color:papayawhip;
+    text-align:justify;
+    margin:8px 30px 8px 8px;
+    padding:25px;
+    border-radius:10px;
+}
+.goals_div{
+    background-color:thistle;
+    text-align:justify;
+    margin:8px 30px 8px 8px;
+    padding:25px;
+    border-radius:10px;
+    } 
+#bg_div{
+    display:flex;
+    margin-left:50px;
+    margin-bottom: 50px;
+}  
+/*This is section -3 property which about Developing myself*/
+.section_3{
+   
+   
+    background-image: url(shapes/shape-1.png);
+    background-repeat:no-repeat;
+    background-size:200px;
+    background-position: left;
+
+}
+.develope_div h1{
+    font-weight:bold;
+    font-size:30px;
+}
+.img_div{
+    width:50%;
+}
+.image_div img{
+ width:400px;   
+ margin-right: 55px;
+}
+.develope_div p{
+    line-height:25px;
+}
+.develope_div{
+    width:50%;
+    margin-left:100px;
+    
+}
+/*This is section-4 property which about learning process*/
+.section_4{
+    display:flex;
+    margin-left:50px;
+    background-image: url(shapes/shape-1.png);
+    background-repeat:no-repeat;
+    background-size:200px;
+    background-position:right bottom;
+    height:450px;
+    
+}
+#div_5{
+    margin-right:50px;
+}
+#div_5 p{
+    margin-bottom:40px;
+}
+/*This section-5 property*/
+#summary{
+    text-align: center;
+}
+.section_5{
+    margin-bottom: 50px;
+    display:flex;
+    margin-left:40px
+    
+}
+.sec_div_6{
+    box-shadow:15px 15px 30px gray;
+    margin-left:25px;
+    background-color: khaki;
+    width:30%;
+}
+.sec_div_6 h1{
+    color:orange;
+    text-align:center;
+    text-decoration:dashed;
+    text-decoration-color: red;
+}
+.sec_div_6 img{
+    width:100%;
+}
+.sec_div_7{
+    box-shadow:15px 15px 30px gray;
+    margin-left:50px;
+    background-color:lavenderblush;
+    width:30%;
+}  
+.sec_div_7 h1{
+    color:orangered;
+    text-align:center;
+} 
+.sec_div_7 img{
+    width:100%;
+}
+.sec_div_8{
+    box-shadow:15px 15px 30px gray;
+    margin-left:50px;
+    margin-right:50px;
+    width:30%;
+}
+.sec_div_8 h1{
+    color:slateblue;
+    text-align:center;
+    text-decoration:dotted;
+} 
+.sec_div_8 img{
+    width:100%;   
+}
+.baby_dev{
+    font-weight:bold ;
+    padding:8px;
+    margin-top: 10px;
+    box-shadow: 10px 10px 20px black;
+}
+#baby_1_dev{
+    margin-top:80px;
+}
+#junior_dev{
+    margin-top:103px;
+}
+#btn{
+    text-align:center;
+    margin-top:195px;
+}
+#btn2{
+    text-align:center;
+    margin-top:176px;
+}
+#btn3{
+    text-align: center;
+    margin-top:150px;
+}
+/*This is Footer property*/
+footer{
+    background-color: black;
+    color:white;
+    text-align: center;
+    padding:5px;
+}
+.span_2{
+    color:red;
+    font-family: Bernard MT Condensed ;
+}
