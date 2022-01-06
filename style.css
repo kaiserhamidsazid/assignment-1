@@ -146,7 +146,8 @@ span{
 .section_5{
     margin-bottom: 50px;
     display:flex;
-    margin-left:40px
+    margin-left:40px;
+
     
 }
 .sec_div_6{
@@ -154,6 +155,7 @@ span{
     margin-left:25px;
     background-color: khaki;
     width:30%;
+    border-radius: 15px;
 }
 .sec_div_6 h1{
     color:orange;
@@ -169,6 +171,7 @@ span{
     margin-left:50px;
     background-color:lavenderblush;
     width:30%;
+    border-radius: 15px;
 }  
 .sec_div_7 h1{
     color:orangered;
@@ -182,6 +185,7 @@ span{
     margin-left:50px;
     margin-right:50px;
     width:30%;
+    border-radius: 15px;
 }
 .sec_div_8 h1{
     color:slateblue;
@@ -196,6 +200,7 @@ span{
     padding:8px;
     margin-top: 10px;
     box-shadow: 10px 10px 20px black;
+    border-radius:10px;
 }
 #baby_1_dev{
     margin-top:80px;
